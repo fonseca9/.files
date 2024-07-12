@@ -165,3 +165,6 @@ for_window [class=".*"] border pixel 0
 
 #TELA DE BLOQUEIO
 bindsym $mod+F10 exec --no-startup-id i3lock -i /home/jv/Imagens/thunderstorm.png 
+
+#CONFIGURAÇÃO
+bindsym $mod+c exec "gnome-control-center";
